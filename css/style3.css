@@ -18,5 +18,3 @@ img { border-style: none; margin:0; padding:0;}
 .TreeList-lineEnd{ float:left; width: 8px; height: 20px; background:url(../images/tree-lineEnd.png) no-repeat; margin-left: 7px;}
 .TreeList-top{ width: 100%; height: 20px;position: relative;}
 .TreeList-old{ float: left; padding-top: 5px; width:10px; height:10px; cursor: pointer; margin-right: 5px;}
-.f-iconJia{ display: block; width: 11px; height: 11px; background: url(../images/tree-jia.png) no-repeat; background-color:#fff ;}
-.f-iconJian{ display: block; width: 11px; height: 11px; background: url(../images/tree-jian.png) no-repeat; background-color:#fff ;}
